@@ -26,5 +26,5 @@ func version1_2() string {
 }
 
 func Version1_2_0() string {
-	return "I'm from the real version 1.2.0"
+	return "I'm from the real version 1.2.0, not 1.2"
 }
