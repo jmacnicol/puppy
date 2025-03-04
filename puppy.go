@@ -4,7 +4,7 @@ import (
 	"github.com/jmacnicol/dog"
 )
 
-// Try to commit once again
+// don't forget to tag this
 func Bark() string {
 	return "Woof!"
 }
